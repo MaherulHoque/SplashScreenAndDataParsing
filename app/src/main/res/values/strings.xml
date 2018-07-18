@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen And Data Parsing</string>
+    <string name="saint_martin_desc">Saint Martin  is a beautiful island.</string>
+    <string name="nilachol_desc">Nilachol  is a beautiful place.</string>
+</resources>
